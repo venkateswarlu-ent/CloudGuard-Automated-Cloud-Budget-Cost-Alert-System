@@ -1,0 +1,7 @@
+{
+  "name": "CloudGuard – Automated Cloud Budget & Cost Alert System",
+  "description": "A Google Cloud budget monitoring and cost alert dashboard powered by Gemini AI for anomaly detection, natural-language insights, and automated threshold alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
